@@ -406,6 +406,18 @@ input { height: 50px; }
 .tm-contact p { padding-top: 40px; }
 /* END CONTACT */
 
+.no-text-transform {
+  text-transform: none
+}
+.img-resize {
+  height: 50px;
+  width: 50px;
+}
+.img-resize-70 {
+  height: 70px;
+  width: 70px;
+}
+
 @media screen and (max-device-width: 1024px){
   .templatemo-home {
     background-attachment: scroll;
